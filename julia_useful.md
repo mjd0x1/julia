@@ -1,4 +1,4 @@
-# Javascript vs Julia Patterns
+# Julia Patterns
 
 ## REPL
 
